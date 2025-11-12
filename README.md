@@ -2,8 +2,9 @@
 HubSpot forms are ugly. Webflow forms don't really work with HubSpot. Here's your fix: embed HubSpot forms and style them from Webflow.
 
 ## 1. Create form in HubSpot
+Do everything you normally would _except:_
 - Select `Set as raw HTML form`
-- Copy the form embed code
+- Copy the form embed code after you publish
 
 ## 2. Edit HubSpot's form embed code
 
