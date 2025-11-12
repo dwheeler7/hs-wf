@@ -31,6 +31,7 @@
     cssClass: "hbspt-form" 
   });
 </script>
+```
 
 ## 3. Style the form in Webflow
 Now we'll drop CSS - that styles the embedded HubSpot forms - into Webflow.
@@ -119,6 +120,7 @@ Now we'll drop CSS - that styles the embedded HubSpot forms - into Webflow.
 	margin-bottom: 1rem;
 }
 </style>
+```
 
 ### 3.b) Drop this CSS into Webflow everywhere
 - Navigate to your Webflow site settings, then _Custom code_
